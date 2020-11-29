@@ -8,7 +8,7 @@ from pygame.locals import *
 
 # Configurações do PyGame
 pygame.init()
-pygame.display.set_caption('Snack Game') # Titulo do Jogo
+pygame.display.set_caption('Snake Game') # Titulo do Jogo
 pygame.display.set_icon(pygame.image.load('assets/game_logo.png')) # Icone do Jogo
 
 # Musica do Jogo
